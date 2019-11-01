@@ -1,0 +1,7 @@
+<configs>
+  <append xpath="/styles/global">
+    <style_entry name="JaWoodlePurple" value="64,0,115" />
+  </append>
+  <set xpath="/styles/global/style_entry[@name='selectedColor']/@value">64,0,115</set>
+  <set xpath="/styles/global/style_entry[@name='hoverColor']/@value">112,0,204</set>
+</configs>
