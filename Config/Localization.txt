@@ -1,17 +1,23 @@
 Key,Source,Context,Changes,English
 buffDrunk02Name,buffs,Buff,KgNone,Pissed
 buffDrunk02Tooltip,buffs,Buff,KgNone,You are Pissed
-buffElementSwelteringDesc,buffs,Buff,New,Oy! You're sweatier than Arlene's gooch! Find cooler clothes, take shelter, or have a froffy. 'Cause when you're this hot, you will get thirsty faster.
+buffElementSwelteringDesc,buffs,Buff,New,"Oy! You're sweatier than Arlene's gooch! Find cooler clothes, take shelter, or have a froffy. 'Cause when you're this hot, you will get thirsty faster."
 buffElementSwelteringTooltip,buffs,Buff,New,She's cooked mate.
 buffElementWetDesc,buffs,Buff,KgNone,You're wetter than Arlene in a room full of cowboys.
 buffEncumberedInvDesc,buffs,Buff,New,Moving becomes harder when you are carrying too many items in your inventory. Carry less or unlock more slots with a perk or other means.\n\nThe number is the number of items that are cucumbering you.
 buffEncumberedInvName,buffs,Buff,New,Cucumbered
 buffEncumberedInvTooltip,buffs,Buff,New,You are Cucumbered
+buffInfection04Tooltip,buffs,Buff,New,A few too many times around the block with Arlene, you have died from infection
 cntCoolerClosed,blocks,Container,New,Esky
 cntCoolerOpen,blocks,Container,New,Esky (Open)
+diedGameMessage,UI,HUD,KgNone,[A0]{0} cooked it
 drinkJarBeer,items,Food,KgNone,Froffy
 drinkJarBeerSchematic,items,Food,New,Froffy Recipe
+gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotgun, great for close range carnage. Oh yeah, baby, get some!\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts.",,,,,
+gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
+gunPumpShotgunDesc,items,GunShotgun,EnChanged,"A long-barreled shotgun uses shells for ammo, ideal for those 'Oh Shit' situations.\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
+gunPumpShotgunSchematic,items,GunShotgun,KgNone,Oh Shit Shotgun Schematic
 zombieArlene,entityclasses,Entity,KgNone,Whore
-zombieArleneFeral,entityclasses,Entity,New,Fast Whore
+zombieArleneFeral,entityclasses,Entity,New,Feral Whore
 zombieCheerleader,entityclasses,Entity,New,Chelsey
 zombieCheerleaderFeral,entityclasses,Entity,New,Feral Chelsey
