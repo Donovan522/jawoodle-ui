@@ -1,0 +1,4 @@
+<configs>
+  <set xpath="/item_modifiers/item_modifier[@name='modDyePurple']/property[@name='CustomIconTint']/@value">64,0,115</set>
+  <set xpath="/item_modifiers/item_modifier[@name='modDyePurple']/item_property_overrides/property[starts-with(@value, '113,97,129')]/@value">64,0,115</set>
+</configs>

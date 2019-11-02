@@ -17,6 +17,7 @@ gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotg
 gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
 gunPumpShotgunDesc,items,GunShotgun,EnChanged,"A long-barreled shotgun uses shells for ammo, ideal for those 'Oh Shit' situations.\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgunSchematic,items,GunShotgun,KgNone,Oh Shit Shotgun Schematic
+modDyePurple,item_modifiers,mod,New,Dye: JaWoodle Purple
 zombieArlene,entityclasses,Entity,KgNone,Whore
 zombieArleneFeral,entityclasses,Entity,New,Feral Whore
 zombieCheerleader,entityclasses,Entity,New,Chelsey
