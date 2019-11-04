@@ -1,23 +1,67 @@
 Key,Source,Context,Changes,English
+statTrue,UI,Item stat,New,Yeah
+statFalse,UI,Item stat,New,Nah
+lblMale,UI,Menu UMA,KgNone,Bloke
+lblFemale,UI,Menu UMA,KgNone,Sheila
+xuiBoolMaleOn,XUi,Character Editor,New,Bloke
+xuiBoolMaleOff,XUi,Character Editor,New,Sheila
+mmLblMale,,Main Menu Character Creation,KgNone,BLOKE
+mmLblFemale,,Main Menu Character Creation,KgNone,SHEILA
+animalPig,entityclasses,Entity,KgNone,Oinker
+animalBoar,entityclasses,Entity,New,Pigglywinks
+animalSnake,entityclasses,Entity,New,Danger Noodle
+armorClothGroupDesc,items,Clothes,New,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to cloth.
+armorIronGroupDesc,items,Clothes,Changed,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to Iron.
+armorLeatherGroupDesc,items,Clothes,EnChanged,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to leather.
+armorMilitaryGroupDesc,items,Clothes,KgNone,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to military armor parts.
+armorScrapIronGroupDesc,items,Clothes,EnChanged,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to Iron.
+armorSteelGroupDesc,items,Clothes,EnChanged,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to steel armor parts.
 buffDrunk02Name,buffs,Buff,KgNone,Pissed
 buffDrunk02Tooltip,buffs,Buff,KgNone,You are Pissed
+buffElementColdDesc,buffs,Buff,New,"You're shivering mate. Find clothing, take shelter, equip a torch or build a campfire. When you are cold you will burn more calories."
+buffElementColdName,buffs,Buff,New,Brrr
+buffElementColdTooltip,buffs,Buff,New,"You're shivering. Find clothing, take shelter, equip a torch or build a campfire."
+buffElementFreezingDesc,buffs,Buff,New,"It's colder than a witch's tit in a brass bra. Find clothing, take shelter, equip a torch or build a campfire. When you're freezing you will burn more calories."
+buffElementFreezingTooltip,buffs,Buff,New,"You turning into an Icy, like Jack at the end of The Shining. Find clothing, take shelter, equip a torch or build a campfire."
+buffElementHotDesc,buffs,Buff,New,You're burnin' up mate. Find clothing or take shelter. When you're hot you will get thirsty faster.
+buffElementHotName,buffs,Buff,New,Burnin' up
+buffElementHotTooltip,buffs,Buff,New,Your gooch is getting swampy. Find clothing or take shelter.
+buffElementSwelteringName,buffs,Buff,New,Cookin'
 buffElementSwelteringDesc,buffs,Buff,New,"Oy! You're sweatier than Arlene's gooch! Find cooler clothes, take shelter, or have a froffy. 'Cause when you're this hot, you will get thirsty faster."
-buffElementSwelteringTooltip,buffs,Buff,New,She's cooked mate.
+buffElementSwelteringTooltip,buffs,Buff,New,"Yeah, nah, She's cooked mate."
 buffElementWetDesc,buffs,Buff,KgNone,You're wetter than Arlene in a room full of cowboys.
 buffEncumberedInvDesc,buffs,Buff,New,Moving becomes harder when you are carrying too many items in your inventory. Carry less or unlock more slots with a perk or other means.\n\nThe number is the number of items that are cucumbering you.
 buffEncumberedInvName,buffs,Buff,New,Cucumbered
 buffEncumberedInvTooltip,buffs,Buff,New,You are Cucumbered
-buffInfection04Tooltip,buffs,Buff,New,A few too many times around the block with Arlene, you have died from infection
+buffInfection04Tooltip,buffs,Buff,New,"A few too many times around the block with Arlene, you have died from infection"
 cntCoolerClosed,blocks,Container,New,Esky
 cntCoolerOpen,blocks,Container,New,Esky (Open)
 diedGameMessage,UI,HUD,KgNone,[A0]{0} cooked it
 drinkJarBeer,items,Food,KgNone,Froffy
 drinkJarBeerSchematic,items,Food,New,Froffy Recipe
-gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotgun, great for close range carnage. Oh yeah, baby, get some!\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts.",,,,,
+gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotgun, great for close range carnage. Oh yeah, baby, get some!\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
 gunPumpShotgunDesc,items,GunShotgun,EnChanged,"A long-barreled shotgun uses shells for ammo, ideal for those 'Oh Shit' situations.\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgunSchematic,items,GunShotgun,KgNone,Oh Shit Shotgun Schematic
+meleeToolKnifeIron,items,Melee,KgNone,"Now, that's a knife!"
+modArmorDoubleStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 2 by installing this modification into your armor.
+modArmorStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 1 by installing this modification into your armor.
+modArmorTripleStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 3 by installing this modification into your armor.
+modClothingStoragePocketDesc,item_modifiers,mod,New,"Decreases cucumbrance penalty by 1 by installing this modification into pants, shirts, and overcoats."
 modDyePurple,item_modifiers,mod,New,Dye: JaWoodle Purple
+perkPackMuleRank1LongDesc,progression,Perk,New,Who has time to organize their stuff perfectly? Carry three more items without being cucumbered.
+perkPackMuleRank2Desc,progression,Perk,New,Platypus
+perkPackMuleRank2LongDesc,progression,Perk,New,You know it's in there somewhere. Carry an additional three more items without being cucumbered.
+perkPackMuleRank3Desc,progression,Perk,New,Wallaby
+perkPackMuleRank3LongDesc,progression,Perk,New,You know exactly where everything is. Carry four additional items without being cucumbered.
+perkPackMuleRank4Desc,progression,Perk,New,Roo
+perkPackMuleRank4LongDesc,progression,Perk,New,You just passed inspection private. Carry four more items without being cucumbered.
+perkPackMuleRank5Desc,progression,Perk,New,Pack Mule
+perkPackMuleRank5LongDesc,progression,Perk,New,"Now you are just showing off, you are either part mule or a strongman. Carry four more items without being cucumbered."
+perkFiremansAlmanacCompleteDesc,progression,PerkBook,New,Sprint longer and never cucumbered in the burnt forest
+perkFiremansAlmanacCompleteLongDesc,progression,PerkBook,New,"Fire adrenaline: The smell of smoke gets your adrenaline  pumping. When in the burnt forest, gain 20% stamina regen when sprinting and suffer no cucumbrance."
+perkNightStalkerThiefAdrenalineDesc,progression,PerkBook,New,Never cucumbered at night.
+perkNightStalkerThiefAdrenalineLongDesc,progression,PerkBook,New,Thief Adrenaline: At night when the adrenaline is rushing you will never feel the weight of your burdens. Never cucumbered at night.
 zombieArlene,entityclasses,Entity,KgNone,Whore
 zombieArleneFeral,entityclasses,Entity,New,Feral Whore
 zombieCheerleader,entityclasses,Entity,New,Chelsey
