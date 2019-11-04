@@ -4,6 +4,6 @@
     <Name value="JaWoodle UI" />
     <Description value="Custom UI for JaWoodle and the Legends" />
     <Author value="Donovan Young" />
-    <Version value="a18.0 v1.0.1" />
+    <Version value="18.0.1.2" compat="A18.0" />
   </ModInfo>
 </xml>

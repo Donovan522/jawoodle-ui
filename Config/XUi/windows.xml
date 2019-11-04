@@ -1,6 +1,11 @@
 <configs>
+	<!--
 	<set xpath="/windows/window[@name='HUDLeftStatBars']/rect[@name='hud' and @side='right']/rect[@stat_type='Stamina']/filledsprite[@depth='3' and @name='background' and @color='110,110,110,128']/@color">[JaWoodlePurple_half_alpha]</set>
+	-->
 	<set xpath="/windows/window[@name='HUDLeftStatBars']/rect[@name='hud' and @side='right']/rect[@stat_type='Stamina']/filledsprite[@depth='5' and @name='BarContent']/@color">[JaWoodlePurple_half_alpha]</set>
+
+	<!-- XP Bar -->
+	<set xpath="/windows/window[@name='windowToolbelt']/rect/sprite[@color='{xpcolor}']/@color">[JaWoodlePurple]</set>
 
 	<set xpath="/windows/window[@name='HUDLeftStatBars']/rect[@name='hud' and @side='left']/@pos">90,159</set>
 	<set xpath="/windows/window[@name='HUDLeftStatBars']/rect[@name='hud' and @side='right']/@pos">9,183</set>
