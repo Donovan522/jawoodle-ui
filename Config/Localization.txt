@@ -10,6 +10,7 @@ mmLblFemale,,Main Menu Character Creation,KgNone,SHEILA
 animalPig,entityclasses,Entity,KgNone,Oinker
 animalBoar,entityclasses,Entity,New,Pigglywinks
 animalSnake,entityclasses,Entity,New,Danger Noodle
+animalZombieVulture,entityclasses,Entity,New,Flappy Pelican
 armorClothGroupDesc,items,Clothes,New,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to cloth.
 armorIronGroupDesc,items,Clothes,Changed,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to Iron.
 armorLeatherGroupDesc,items,Clothes,EnChanged,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to leather.
@@ -27,28 +28,33 @@ buffElementHotDesc,buffs,Buff,New,You're burnin' up mate. Find clothing or take 
 buffElementHotName,buffs,Buff,New,Burnin' up
 buffElementHotTooltip,buffs,Buff,New,Your gooch is getting swampy. Find clothing or take shelter.
 buffElementSwelteringName,buffs,Buff,New,Cookin'
-buffElementSwelteringDesc,buffs,Buff,New,"Oy! You're sweatier than Arlene's gooch! Find cooler clothes, take shelter, or have a froffy. 'Cause when you're this hot, you will get thirsty faster."
+buffElementSwelteringDesc,buffs,Buff,New,"Oy! You're hotter than Arlene in a room full of cowboys! Find cooler clothes, take shelter, or have a froffy. 'Cause when you're this hot, you will get thirsty faster."
 buffElementSwelteringTooltip,buffs,Buff,New,"Yeah, nah, She's cooked mate."
-buffElementWetDesc,buffs,Buff,KgNone,You're wetter than Arlene in a room full of cowboys.
 buffEncumberedInvDesc,buffs,Buff,New,Moving becomes harder when you are carrying too many items in your inventory. Carry less or unlock more slots with a perk or other means.\n\nThe number is the number of items that are cucumbering you.
 buffEncumberedInvName,buffs,Buff,New,Cucumbered
 buffEncumberedInvTooltip,buffs,Buff,New,You are Cucumbered
 buffInfection04Tooltip,buffs,Buff,New,"A few too many times around the block with Arlene, you have died from infection"
 cntCoolerClosed,blocks,Container,New,Esky
 cntCoolerOpen,blocks,Container,New,Esky (Open)
+cntShippingCrateCarParts,blocks,Container,New,Servo Sealed Shipping Crate
+cntSuitcase,blocks,Container,KgNone,Porter
 diedGameMessage,UI,HUD,KgNone,[A0]{0} cooked it
 drinkJarBeer,items,Food,KgNone,Froffy
 drinkJarBeerSchematic,items,Food,New,Froffy Recipe
+foodShamSandwich,items,Food,KgNone,Vegemite Sandwich
+foodShamSandwichDesc,items,Food,EnChanged,Very high chance of food poisoning\n\nA really old vegemite sandwich made by Shamway. It will take away the hunger but it will also make you sick.
 gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotgun, great for close range carnage. Oh yeah, baby, get some!\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
 gunPumpShotgunDesc,items,GunShotgun,EnChanged,"A long-barreled shotgun uses shells for ammo, ideal for those 'Oh Shit' situations.\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgunSchematic,items,GunShotgun,KgNone,Oh Shit Shotgun Schematic
-meleeToolKnifeIron,items,Melee,KgNone,"Now, that's a knife!"
+meleeToolKnifeIron,items,Melee,KgNone,That's a Knife!
 modArmorDoubleStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 2 by installing this modification into your armor.
 modArmorStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 1 by installing this modification into your armor.
 modArmorTripleStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 3 by installing this modification into your armor.
 modClothingStoragePocketDesc,item_modifiers,mod,New,"Decreases cucumbrance penalty by 1 by installing this modification into pants, shirts, and overcoats."
 modDyePurple,item_modifiers,mod,New,Dye: JaWoodle Purple
+perkHuntingJournalVulturesDesc,progression,PerkBook,New,Do 10% more damage to pelicans.
+perkHuntingJournalVulturesLongDesc,progression,PerkBook,New,Pelicans: Pelicans are typically encountered in the desert and are attracted to wounded or dying prey. Do 10% more damage to those flappy fucks.
 perkPackMuleRank1LongDesc,progression,Perk,New,Who has time to organize their stuff perfectly? Carry three more items without being cucumbered.
 perkPackMuleRank2Desc,progression,Perk,New,Platypus
 perkPackMuleRank2LongDesc,progression,Perk,New,You know it's in there somewhere. Carry an additional three more items without being cucumbered.
@@ -62,7 +68,9 @@ perkFiremansAlmanacCompleteDesc,progression,PerkBook,New,Sprint longer and never
 perkFiremansAlmanacCompleteLongDesc,progression,PerkBook,New,"Fire adrenaline: The smell of smoke gets your adrenaline  pumping. When in the burnt forest, gain 20% stamina regen when sprinting and suffer no cucumbrance."
 perkNightStalkerThiefAdrenalineDesc,progression,PerkBook,New,Never cucumbered at night.
 perkNightStalkerThiefAdrenalineLongDesc,progression,PerkBook,New,Thief Adrenaline: At night when the adrenaline is rushing you will never feel the weight of your burdens. Never cucumbered at night.
-zombieArlene,entityclasses,Entity,KgNone,Whore
-zombieArleneFeral,entityclasses,Entity,New,Feral Whore
+ttItemNeedsRepair,UI,Tooltip,EnChanged,This item is cactus
+ttLevelUp,UI,Tooltip,KgNone,Bonza Mate! You are now level {0} and have {1} skill points to spend.
+zombieArlene,entityclasses,Entity,KgNone,Cheap Whore
+zombieArleneFeral,entityclasses,Entity,New,Whore
 zombieCheerleader,entityclasses,Entity,New,Chelsey
 zombieCheerleaderFeral,entityclasses,Entity,New,Feral Chelsey
