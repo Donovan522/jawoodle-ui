@@ -34,6 +34,8 @@ buffEncumberedInvDesc,buffs,Buff,New,Moving becomes harder when you are carrying
 buffEncumberedInvName,buffs,Buff,New,Cucumbered
 buffEncumberedInvTooltip,buffs,Buff,New,You are Cucumbered
 buffInfection04Tooltip,buffs,Buff,New,"A few too many times around the block with Arlene, you have died from infection"
+casinoCoin,items,Item,KgNone,Dollarydoo
+casinoCoinDesc,items,Item,EnChanged,Dollarydoos made from Duke's casino coins. After the epidemic and war these brass coins became the main currency for trading in Navezgane.
 cntCoolerClosed,blocks,Container,New,Esky
 cntCoolerOpen,blocks,Container,New,Esky (Open)
 cntShippingCrateCarParts,blocks,Container,New,Servo Sealed Shipping Crate
