@@ -1,7 +1,7 @@
 <configs>
 	<!-- Logo -->
 	<append xpath="/windows">
-		<window name="JaWoodleLogo" depth="99" pos="-10,47" size="1,1">
+		<window name="JaWoodleLogo" depth="99" pos="-10,47" size="1,1" controller="ToolbeltWindow" visible="{toolbeltvisible}">
 			<sprite name="JaWoodleLogo" depth="99" pos="-128,30" size="256,60" atlas="UIElements" sprite="jawoodle_logo" color="[JaWoodlePurple]" />
 		</window>
 	</append>
