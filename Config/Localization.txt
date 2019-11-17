@@ -7,24 +7,28 @@ xuiBoolMaleOn,XUi,Character Editor,New,Bloke
 xuiBoolMaleOff,XUi,Character Editor,New,Sheila
 mmLblMale,,Main Menu Character Creation,KgNone,BLOKE
 mmLblFemale,,Main Menu Character Creation,KgNone,SHEILA
+animalChicken,entityclasses,Entity,KgNone,Chook
 animalPig,entityclasses,Entity,KgNone,Oinker
 animalBoar,entityclasses,Entity,New,Pigglywinks
 animalSnake,entityclasses,Entity,New,Danger Noodle
 animalZombieVulture,entityclasses,Entity,New,Flappy Pelican
+apparelArmyPants,items,Clothes,KgNone,BDO Bottoms
+apparelArmyShirt,items,Clothes,KgNone,BDO Top
 armorClothGroupDesc,items,Clothes,New,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to cloth.
 armorIronGroupDesc,items,Clothes,Changed,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to Iron.
 armorLeatherGroupDesc,items,Clothes,EnChanged,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to leather.
 armorMilitaryGroupDesc,items,Clothes,KgNone,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to military armor parts.
 armorScrapIronGroupDesc,items,Clothes,EnChanged,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to Iron.
 armorSteelGroupDesc,items,Clothes,EnChanged,Heavy armor will cucumber you but provides good protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to steel armor parts.
+buffArrowCriticalBleedoutTooltip,buffs,Buff,KgNone,You are bleeding out of your butthole... again. Use a bandage to stop the bleeding.
 buffDrunk02Name,buffs,Buff,KgNone,Pissed
 buffDrunk02Tooltip,buffs,Buff,KgNone,You are Pissed
-buffElementColdDesc,buffs,Buff,New,"You're shivering mate. Find clothing, take shelter, equip a torch or build a campfire. When you are cold you will burn more calories."
+buffElementColdDesc,buffs,Buff,New,"You're fookin' cold, mate. Find clothing, take shelter, equip a torch or build a campfire. When you are cold you will burn more calories."
 buffElementColdName,buffs,Buff,New,Brrr
-buffElementColdTooltip,buffs,Buff,New,"You're shivering. Find clothing, take shelter, equip a torch or build a campfire."
+buffElementColdTooltip,buffs,Buff,New,"Your shit is cold! Find clothing, take shelter, equip a torch or build a campfire."
 buffElementFreezingDesc,buffs,Buff,New,"It's colder than a witch's tit in a brass bra. Find clothing, take shelter, equip a torch or build a campfire. When you're freezing you will burn more calories."
-buffElementFreezingTooltip,buffs,Buff,New,"You turning into an Icy, like Jack at the end of The Shining. Find clothing, take shelter, equip a torch or build a campfire."
-buffElementHotDesc,buffs,Buff,New,You're burnin' up mate. Find clothing or take shelter. When you're hot you will get thirsty faster.
+buffElementFreezingTooltip,buffs,Buff,New,"You turning into an Icey, like Jack at the end of The Shining. Find clothing, take shelter, equip a torch or build a campfire."
+buffElementHotDesc,buffs,Buff,New,You're burnin' up! Find clothing or take shelter. When you're hot you will get thirsty faster.
 buffElementHotName,buffs,Buff,New,Burnin' up
 buffElementHotTooltip,buffs,Buff,New,Your gooch is getting swampy. Find clothing or take shelter.
 buffElementSwelteringName,buffs,Buff,New,Cookin'
@@ -43,7 +47,7 @@ cntSuitcase,blocks,Container,KgNone,Porter
 diedGameMessage,UI,HUD,KgNone,[A0]{0} cooked it
 drinkJarBeer,items,Food,KgNone,Froffy
 drinkJarBeerSchematic,items,Food,New,Froffy Recipe
-foodShamSandwich,items,Food,KgNone,Vegemite Sandwich
+foodShamSandwich,items,Food,KgNone,Rotten Vegemite Sandwich
 foodShamSandwichDesc,items,Food,EnChanged,Very high chance of food poisoning\n\nA really old vegemite sandwich made by Shamway. It will take away the hunger but it will also make you sick.
 gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotgun, great for close range carnage. Oh yeah, baby, get some!\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
