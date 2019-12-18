@@ -7,6 +7,7 @@ xuiBoolMaleOn,XUi,Character Editor,New,Bloke
 xuiBoolMaleOff,XUi,Character Editor,New,Sheila
 mmLblMale,,Main Menu Character Creation,KgNone,BLOKE
 mmLblFemale,,Main Menu Character Creation,KgNone,SHEILA
+ammoRocketFrag,,items,Ammo,--,Frocket Rag (Ammo)
 animalChicken,entityclasses,Entity,KgNone,Chook
 animalPig,entityclasses,Entity,KgNone,Oinker
 animalBoar,entityclasses,Entity,New,Pigglywinks
