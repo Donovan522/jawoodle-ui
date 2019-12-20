@@ -7,7 +7,7 @@ xuiBoolMaleOn,XUi,Character Editor,New,Bloke
 xuiBoolMaleOff,XUi,Character Editor,New,Sheila
 mmLblMale,,Main Menu Character Creation,KgNone,BLOKE
 mmLblFemale,,Main Menu Character Creation,KgNone,SHEILA
-ammoRocketFrag,,items,Ammo,--,Frocket Rag (Ammo)
+ammoRocketFrag,,items,Ammo,Frocket Rag (Ammo)
 animalChicken,entityclasses,Entity,KgNone,Chook
 animalPig,entityclasses,Entity,KgNone,Oinker
 animalBoar,entityclasses,Entity,New,Pigglywinks
@@ -54,6 +54,9 @@ gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotg
 gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
 gunPumpShotgunDesc,items,GunShotgun,EnChanged,"A long-barreled shotgun uses shells for ammo, ideal for those 'Oh Shit' situations.\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgunSchematic,items,GunShotgun,KgNone,Oh Shit Shotgun Schematic
+gunRocketLauncher,,items,GunRocket,Frocket Launcher
+gunRocketLauncherParts,,items,GunRocket,Frocket Launcher Parts
+gunRocketLauncherSchematic,,items,GunRocket,Frocket Launcher Schematic
 meleeToolKnifeIron,items,Melee,KgNone,That's a Knife!
 modArmorDoubleStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 2 by installing this modification into your armor.
 modArmorStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 1 by installing this modification into your armor.
