@@ -12,7 +12,7 @@ animalChicken,entityclasses,Entity,KgNone,Chook
 animalPig,entityclasses,Entity,KgNone,Oinker
 animalBoar,entityclasses,Entity,New,Pigglywinks
 animalSnake,entityclasses,Entity,New,Danger Noodle
-animalZombieVulture,entityclasses,Entity,New,Flappy Pelican
+animalZombieVulture,entityclasses,Entity,New,Dirty Magpie
 apparelArmyPants,items,Clothes,KgNone,BDO Bottoms
 apparelArmyShirt,items,Clothes,KgNone,BDO Top
 armorClothGroupDesc,items,Clothes,New,Light armor will cucumber you a little and provides some protection against damage.\nIt will not protect you from the weather.\n\nRepair with a Repair Kit.\nScrap to cloth.
@@ -48,8 +48,8 @@ cntSuitcase,blocks,Container,KgNone,Porter
 diedGameMessage,UI,HUD,KgNone,[A0]{0} cooked it
 drinkJarBeer,items,Food,KgNone,Froffy
 drinkJarBeerSchematic,items,Food,New,Froffy Recipe
-foodShamSandwich,items,Food,KgNone,Rotten Vegemite Sandwich
-foodShamSandwichDesc,items,Food,EnChanged,Very high chance of food poisoning\n\nA really old vegemite sandwich made by Shamway. It will take away the hunger but it will also make you sick.
+foodShamSandwich,items,Food,KgNone,Rotten Vegemite Sanga
+foodShamSandwichDesc,items,Food,EnChanged,Very high chance of food poisoning\n\nA really old vegemite sanga made by Shamway. It will take away the hunger but it will also make you sick.
 gunDoubleBarrelShotgunDesc,items,GunShotgun,New,"A rusty old double barrel shotgun, great for close range carnage. Oh yeah, baby, get some!\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
 gunPumpShotgun,items,GunShotgun,KgNone,Oh Shit Shotgun
 gunPumpShotgunDesc,items,GunShotgun,EnChanged,"A long-barreled shotgun uses shells for ammo, ideal for those 'Oh Shit' situations.\n\nRepair with a Repair Kit.\nScrap to Shotgun Parts."
@@ -63,8 +63,8 @@ modArmorStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by
 modArmorTripleStoragePocketDesc,item_modifiers,mod,New,Decrease cucumbrance penalty by 3 by installing this modification into your armor.
 modClothingStoragePocketDesc,item_modifiers,mod,New,"Decreases cucumbrance penalty by 1 by installing this modification into pants, shirts, and overcoats."
 modDyePurple,item_modifiers,mod,New,Dye: JaWoodle Purple
-perkHuntingJournalVulturesDesc,progression,PerkBook,New,Do 10% more damage to pelicans.
-perkHuntingJournalVulturesLongDesc,progression,PerkBook,New,Pelicans: Pelicans are typically encountered in the desert and are attracted to wounded or dying prey. Do 10% more damage to those flappy fucks.
+perkHuntingJournalVulturesDesc,progression,PerkBook,New,Do 10% more damage to magpies.
+perkHuntingJournalVulturesLongDesc,progression,PerkBook,New,Magpies: Magpies are typically encountered in the desert and are attracted to wounded or dying prey. Do 10% more damage to those flappy fucks.
 perkPackMuleRank1LongDesc,progression,Perk,New,Who has time to organize their stuff perfectly? Carry three more items without being cucumbered.
 perkPackMuleRank2Desc,progression,Perk,New,Platypus
 perkPackMuleRank2LongDesc,progression,Perk,New,You know it's in there somewhere. Carry an additional three more items without being cucumbered.
