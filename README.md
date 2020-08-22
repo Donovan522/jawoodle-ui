@@ -4,4 +4,4 @@
 
 A customized UI for JaWoodle and the JaWoodle Legends.
 
-Minimimal footprint with some Australian highlights
+Minimal footprint with some Australian highlights
